@@ -1,0 +1,27 @@
+{
+  "name": "support-incident-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yueymiqua/support-incident-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yueymiqua/support-incident-tracker/issues"
+  },
+  "homepage": "https://github.com/yueymiqua/support-incident-tracker#readme",
+  "dependencies": {
+    "apollo-server": "^3.1.2",
+    "graphql": "^15.5.1",
+    "knex": "^0.95.9",
+    "pg": "^8.7.1"
+  }
+}
